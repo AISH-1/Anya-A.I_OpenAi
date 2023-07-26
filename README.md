@@ -7,7 +7,7 @@ Anya A.I. is a simple AI-based chatbot powered by the OpenAI GPT-3 model. It int
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AISH-1/Anya-AI_OpenAi.git
+git clone https://github.com/AISH-1/Anya-A.I_OpenAi.git
 ```
 
 2. Install dependencies:
