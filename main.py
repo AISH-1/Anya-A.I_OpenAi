@@ -11,8 +11,6 @@ chatStr = ""
 
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
 
-
-# https://youtu.be/Z3ZAJoi4x6Q
 def chat(query):
     global chatStr
     print(chatStr)
