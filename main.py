@@ -69,7 +69,7 @@ def takeCommand():
             print(f"User said: {query}")
             return query
         except Exception as e:
-            return "Some Error Occurred. Sorry from Jarvis"
+            return "Some Error Occurred. Sorry from Anya"
 
 
 if __name__ == '__main__':
