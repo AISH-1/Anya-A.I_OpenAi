@@ -7,7 +7,7 @@ Anya A.I. is a simple AI-based chatbot powered by the OpenAI GPT-3 model. It int
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Anya-AI.git
+git clone https://github.com/AISH-1/Anya-A.I_OpenAi.git
 ```
 
 2. Install dependencies:
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 3. Set up OpenAI API:
 
-To use Anya A.I., you need to have access to the OpenAI GPT-3 API. Obtain your API key from OpenAI and store it in a file named `config.py`. The file should contain:
+To use Anya A.I., you need access to the OpenAI GPT-3 API. Obtain your API key from OpenAI and store it in a file named `config.py`. The file should contain:
 
 ```python
 # config.py
@@ -59,7 +59,18 @@ Anya A.I. understands the following predefined commands:
 
 ## Contributions
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions, improvements, or bug fixes. We appreciate your help in making Anya-A. I better for everyone.
+
+When contributing, please follow these guidelines:
+
+- Before starting any significant changes, create an issue to discuss the proposed improvement or bug fix.
+- Fork the repository and create a new branch for your changes.
+- Ensure that your code adheres to the project's coding standards and style guidelines.
+- Write clear and concise commit messages to describe your changes.
+- Test your changes thoroughly to avoid introducing new issues.
+- Once you're ready, please submit a pull request, and we'll go over your changes as soon as possible.
+
+We value every contribution and strive to maintain a friendly and inclusive community. Thank you for your support and efforts in making Anya-A.I have a better project!
 
 ## License
 
