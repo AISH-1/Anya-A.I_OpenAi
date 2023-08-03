@@ -123,8 +123,10 @@ if __name__ == '__main__':
 
         elif "open vscode".lower() in query.lower():
             os.system(f"code")
+        
         elif "open word".lower() in query.lower():
             os.system("winword")
+        
         elif "Using artificial intelligence".lower() in query.lower():
             ai(prompt=query)
 
